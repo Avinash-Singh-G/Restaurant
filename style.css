@@ -15,6 +15,9 @@ section {
     padding: 60px 0;
 }
 
+.logo{
+	margin-left: 50px;
+}
 
 #footer {
     background: #8c2525;
